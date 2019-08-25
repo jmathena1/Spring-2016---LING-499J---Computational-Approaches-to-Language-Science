@@ -23,7 +23,9 @@ Installation:
   9. Run "evalsim.mat". This function takes one of the reduced vectors, the wordlist output by coocmat_mat, and a human similarity dataset 
      as inputs and outputs a spearman rank correlation coefficient between the model’s similarity judgments and human dataset.  The 
      function calls cossim.m to calculate the model’s similarity judgement before comparing them to the human judgements.
+     
 Credits:
+
   Dr. Allyson Ettinger
   Dr. Naomi Feldman
 
